@@ -4,15 +4,15 @@ Instruction to run the code:
 
 *without docker container
 
-1.Setup a Mongodb database first- replace the [username], [password] and [ip_address] with your mongodb credentials.
-2.Create 2 collections in the mongodb database one for user details and other for pets.
+1.Setup a Mongodb database - replace the [username], [password] and [ip_address] with your mongodb credentials.
+2.Create 2 collections in the mongodb database, one for user details and other for pets.
 3.Give gmail credentials - replace [email] and [password] with your credentials.
-4.Make sure to download all libraries are installed mentioned in requirement.txt
+4.Make sure all libraries mentioned in requirement.txt are installed 
 5.Run app.py
 
 *as docker container
 
-1.Setup a Mongodb database first- replace the [username], [password] and [ip_address] with your mongodb credentials.
+1.Setup a Mongodb database - replace the [username], [password] and [ip_address] with your mongodb credentials.
 2.Create 2 collections in the mongodb database one for user details and other for pets.
 3.Give gmail credentials - replace [email] and [password] with your credentials.
 4.Install docker on your manchine
